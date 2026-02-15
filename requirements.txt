@@ -1,0 +1,3 @@
+# Core dependencies (torch, transformers, trl pre-installed on AMD MI300X)
+gymnasium
+datasets
